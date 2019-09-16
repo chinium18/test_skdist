@@ -1,0 +1,4 @@
+Fitting 10 folds for each of 105 candidates, totalling 1050 fits
+Train time for scikit-learn: 327.624107837677
+Best score: 0.981450024203508
+Train time for sk-dist: 327.624205827713
